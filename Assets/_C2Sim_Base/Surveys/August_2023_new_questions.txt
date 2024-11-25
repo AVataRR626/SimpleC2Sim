@@ -1,0 +1,17 @@
+Gaming Demographics
+-How often do you play video games?
+-How often do you play real-time-strategy games
+
+Less than once a year
+Less than once a month
+At least once a month
+At least once a week
+More than once a day
+
+----
+
+Block survey - open ended:
+
+What strategy (if any) did you use to judge if the aeroplanes would collide or not?
+
+

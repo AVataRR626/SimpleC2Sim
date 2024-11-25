@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f3c8743b9002604eba93da2bb66f760, type: 3}
+  m_Name: Competence and Predictability
+  m_EditorClassIdentifier: 
+  surveyStatement: Please rate how much you agree or disagree with the following
+    statements
+  answerPrompt: Slide to give rating
+  responses:
+  - Strongly Disagree
+  - Disagree
+  - Neutral
+  - Agree
+  - Strongly Agree
+  questions:
+  - This autonomous team-mate contributed to successfully performing the overall
+    task
+  - The autonomous team-mate made a lot of mistakes
+  - I knew what the autonomous team-mate was going to do
+  - This autonomous team-mate was good at its job
+  - This autonomous team-mate was unpredictable
+  - I knew what the autonomous team-mate was doing

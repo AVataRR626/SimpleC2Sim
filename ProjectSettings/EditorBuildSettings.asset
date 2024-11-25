@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Red Tape/DZ_static/0_Consent_and_Info_X2_DZ.unity
+    guid: b201fc48cd9b19d459c641fd0286e1f9
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Red Tape/DZ_static/0_Pre_Game_Surveys_X2_DZ.unity
+    guid: 56800a57d1896c5459b8701fc629570e
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Red Tape/DZ_static/1_Intermission_Surveys_X2_DZ.unity
+    guid: 2b0b1b18af853c649a1e4b311fbfef9b
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Red Tape/zzzEND_Of_Experiment_Build-Index-3.unity
+    guid: 9186dda36389c5a479d7b4b931ed11ea
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Red Tape/DZ_static/2_0_Practice_T_DZ_X2_DZ.unity
+    guid: 26eba46c5d5892d47a2328e28ec03471
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Red Tape/DZ_static/3_0_Practice_G_DZ_X2_DZ.unity
+    guid: b9086704794ee9b4f905f51fda8c1ef1
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_G/G_DZNA_W1_static
+      1.unity
+    guid: 023c0a0a76060aa4ea0995268e83c2c7
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_G/G_DZNA_W1_static
+      2.unity
+    guid: 49b1a81e9cfa519429b5fbaa4e3c7541
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_G/G_DZNA_W2_static
+      1.unity
+    guid: d46a07e04a52f224991d47f3d3cc7437
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_G/G_DZNA_W2_static
+      2.unity
+    guid: f9f7784f7165a9847ab8ca86063ff3e4
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_G/G_DZNA_W3_static
+      1.unity
+    guid: b8ca0d6896cde464086bba9d32be2af1
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_G/G_DZNA_W3_static
+      2.unity
+    guid: 04b53d3cf07e6c6489382e01a3867f55
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_G/G_DZUA_W1_static
+      1.unity
+    guid: 4da42acfb85c30f4d80d3bf752f03d07
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_G/G_DZUA_W1_static
+      2.unity
+    guid: e1446490c09519e49bd759bfe4eb19ec
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_G/G_DZUA_W2_static
+      1.unity
+    guid: 9f145832cb454344f9b954107caa2dee
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_G/G_DZUA_W2_static
+      2.unity
+    guid: 51e32b53946378a46af43da9dad2e810
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_G/G_DZUA_W3_static
+      1.unity
+    guid: 5820e26bca1ba0941b93f1cdbd574e73
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_G/G_DZUA_W3_static
+      2.unity
+    guid: ed4f2237ff53ff84bac8312635397118
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_G/G_DZSI_W1_static
+      1.unity
+    guid: cf48aecb8ab45e54b91dd31323e2c890
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_G/G_DZSI_W1_static
+      2.unity
+    guid: ce81474160040c44abde13fb038e0b78
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_G/G_DZSI_W2_static
+      1.unity
+    guid: 5ed365cb29d6e66428ef289d562ccd56
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_G/G_DZSI_W2_static
+      2.unity
+    guid: 4e768756c664e004d870daf43ca2e2d3
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_G/G_DZSI_W3_static
+      1.unity
+    guid: e5e183edf21241f4881d999c19973fb4
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_G/G_DZSI_W3_static
+      2.unity
+    guid: aab39ed3b60409e489e655a37185d23d
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_G/G_DZDI_W1_static
+      1.unity
+    guid: 9eaaead57424b204bbc675afe813b05b
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_G/G_DZDI_W1_static
+      2.unity
+    guid: 3018046665284124996e7eaabb8b4231
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_G/G_DZDI_W2_static
+      1.unity
+    guid: b8241d2d68f163041b60818947b46a87
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_G/G_DZDI_W2_static
+      2.unity
+    guid: ece958c168b32984683f417e1ad9662c
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_G/G_DZDI_W3_static
+      1.unity
+    guid: fef24d14361fc3b41972a98f368ce392
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_G/G_DZDI_W3_static
+      2.unity
+    guid: 8a99ee307fe455140825d28e2b508aca
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_T/T_DZNA_W1_static
+      1.unity
+    guid: 1fad1e0230b64234d832cc18a1fcafc7
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_T/T_DZNA_W1_static
+      2.unity
+    guid: e1fa60ff584b6ce4eb501ab060340c32
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_T/T_DZNA_W2_static
+      1.unity
+    guid: 31d65b5e05ee84c4090331e2c9b5c1df
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_T/T_DZNA_W2_static
+      2.unity
+    guid: 4d4631470d74b4849b506dcee3b5b142
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_T/T_DZNA_W3_static
+      1.unity
+    guid: 71b270f9a7e0f024987a7ea145a66d93
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_T/T_DZNA_W3_static
+      2.unity
+    guid: 773d996e3923e8742a5e4d7e416d1b60
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_T/T_DZUA_W1_static
+      1.unity
+    guid: 4a4be85fba57699488c0e3f581385a32
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_T/T_DZUA_W1_static
+      2.unity
+    guid: 49b4e311e5448e24086a3e5ceede12a1
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_T/T_DZUA_W2_static
+      1.unity
+    guid: ddaf5ef29310faf478b775d098e2d854
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_T/T_DZUA_W2_static
+      2.unity
+    guid: 685c3cd483977724ea65bc9668b832cf
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_T/T_DZUA_W3_static
+      1.unity
+    guid: de9eab1f2724e7842942dffe8bebdbf6
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_T/T_DZUA_W3_static
+      2.unity
+    guid: 6d3e90373ddb5d848b4e22209eaf5d1a
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_T/T_DZSI_W1_static
+      1.unity
+    guid: 4c32aed474105134dbd569e2ecd1bb28
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_T/T_DZSI_W1_static
+      2.unity
+    guid: 884d64e1b595a534ba97db6b6b1cff85
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_T/T_DZSI_W2_static
+      1.unity
+    guid: 236accfe470abcd439ebcee16dbb88fb
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_T/T_DZSI_W2_static
+      2.unity
+    guid: 4599d3e11e529764e800c2bb36973a8a
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_T/T_DZSI_W3_static
+      1.unity
+    guid: cf0e7e712fd62d24ab7c74f484a55b80
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_T/T_DZSI_W3_static
+      2.unity
+    guid: b51b8820309ea8348ba77fa706059e95
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_T/T_DZDI_W1_static
+      1.unity
+    guid: 40a795d9330c34d4f81f408033d4db15
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_T/T_DZDI_W1_static
+      2.unity
+    guid: 965caf62bb4e76d4180f6cc5bd7af933
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_T/T_DZDI_W2_static
+      1.unity
+    guid: 5bf0c1f1ad7393a4d837193ddf8b05a1
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_T/T_DZDI_W2_static
+      2.unity
+    guid: 6ec2ae1bf7cad7841a8559cfacd51963
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_T/T_DZDI_W3_static
+      1.unity
+    guid: 04a1ccdfad0b79a4cb013779bb7bbafa
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_T/T_DZDI_W3_static
+      2.unity
+    guid: fe5be4fa9702bf34b9728d3383378d6d
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_X/X_DZNA_W1_static
+      1.unity
+    guid: bacaa8c2cafce9248a4252abe0d9315f
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_X/X_DZNA_W1_static
+      2.unity
+    guid: d41fdb155cb25da4489e2383ba87aaf8
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_X/X_DZNA_W2_static
+      1.unity
+    guid: 7eb71891c0de86041a11331bca5f73f1
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_X/X_DZNA_W2_static
+      2.unity
+    guid: f90386be610d47e4a82332faac8e0dfd
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_X/X_DZNA_W3_static
+      1.unity
+    guid: 6053d1841adb044468a1b41af85c283b
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionCorrect_X/X_DZNA_W3_static
+      2.unity
+    guid: 8eec53d3d62f4094da7cb0d7cbbd451f
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_X/X_DZUA_W1_static
+      1.unity
+    guid: f26205a665b71c24083f5f79a99e7567
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_X/X_DZUA_W1_static
+      2.unity
+    guid: 47803230f83a71541b6df3f06b66dfbc
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_X/X_DZUA_W2_static
+      1.unity
+    guid: 22985c0fb7dd85742b8f2cf639009de7
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_X/X_DZUA_W2_static
+      2.unity
+    guid: 64280c10a81227a4d8a1feab70d9a445
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_X/X_DZUA_W3_static
+      1.unity
+    guid: 4a317a2a5007f744aac7ace2ac555718
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/DiversionIncorrect_X/X_DZUA_W3_static
+      2.unity
+    guid: e87ab6c90806bdc4ba7c0697210e7350
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_X/X_DZSI_W1_static
+      1.unity
+    guid: c46db7d9651d03c4b82a727d010f23f4
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_X/X_DZSI_W1_static
+      2.unity
+    guid: 39fdc54c9881fd241b8fdc9865adfcb4
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_X/X_DZSI_W2_static
+      1.unity
+    guid: 30ae7a6a4a63f1246b61e29340fd5782
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_X/X_DZSI_W2_static
+      2.unity
+    guid: 1ffe9bcda5d092548bdc633f095c343a
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_X/X_DZSI_W3_static
+      1.unity
+    guid: d914d584c8784364aa7fb7a9c14b241f
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionCorrect_X/X_DZSI_W3_static
+      2.unity
+    guid: e4fab4ba48fbad647bf29ecaf9adad52
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_X/X_DZDI_W1_static
+      1.unity
+    guid: 5a81d3635ff0138449f45148fd7b3e77
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_X/X_DZDI_W1_static
+      2.unity
+    guid: b6b1b9c54d6b50b4c8651ee790f2f7d3
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_X/X_DZDI_W2_static
+      1.unity
+    guid: 4dfc288b960c5954799b7ac3204e80e2
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_X/X_DZDI_W2_static
+      2.unity
+    guid: cc25f4d3ffb61244bae1492f4a12f957
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_X/X_DZDI_W3_static
+      1.unity
+    guid: 21622860b0233f342b581083b4f0fb9c
+  - enabled: 1
+    path: Assets/__Experiment_Assets/Scenes/Trials_Static/_DZ/IncursionIncorrect_X/X_DZDI_W3_static
+      2.unity
+    guid: dfca15f3f1d7c7f41ba0108517f0a102
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
